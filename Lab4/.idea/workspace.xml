@@ -57,14 +57,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="432" y="164" key="#Project_Structure" timestamp="1612508609477">
+    <state x="432" y="164" key="#Project_Structure" timestamp="1612854948209">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="432" y="164" key="#Project_Structure/0.0.1680.1010@0.0.1680.1010" timestamp="1612508609477" />
-    <state x="645" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1612508669328">
+    <state x="432" y="164" key="#Project_Structure/0.0.1680.1010@0.0.1680.1010" timestamp="1612854948209" />
+    <state x="645" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1612854966129">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="645" y="222" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1612508669328" />
+    <state x="645" y="222" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1612854966129" />
+    <state x="536" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1612854544323">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="536" y="330" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1612854544323" />
     <state x="222" y="208" key="new project wizard" timestamp="1612508752801">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
